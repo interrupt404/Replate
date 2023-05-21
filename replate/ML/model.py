@@ -30,10 +30,6 @@ def get_recipe_recommendations(leftover_ingredients):
         recommendations.append((i+1, sorted_df.loc[i, 'recipe_name'], round(sorted_df.loc[i, 'cosine_sim'], 3)))
     return recommendations
 
-## Take user input for leftover ingredients
-# leftover_ingredients = input("Enter the leftover ingredients separated by commas: ")
-# recommendations = get_recipe_recommendations(leftover_ingredients)
-# print(recommendations)
 
 
 ## Save the model
