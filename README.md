@@ -28,6 +28,7 @@ git clone https://github.com/interrupt404/Replate.git
 cd Replate
 npm install
 
+```
 License This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact: If you have any questions or need support, feel free to contact us at rajatraj2001@gmail.com Visit our website: https://replate.vercel.app/ Connect with us on social media: Twitter | Facebook Replate: The Recipe Waste Solution! 🚀
